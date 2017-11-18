@@ -1,5 +1,5 @@
-Forensische Psychologie
--------------------------
+# Forensische Psychologie
+
 ## Begriffsbestimmung
 
 - Forensische Psychologie befasst sich mit der Begutachtung und Behandlung psychisch Kranker,
@@ -147,15 +147,13 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - mögl.: Überfunktion/Unterfunktion dopaminerger Systeme
   - Serotonin und Noradrenalin System gestört
 - **Diagnostik von Psychosen**
-  - Psychiatrische Vorgeschichte
+  - Psychiatrische Vorgeschichte & Komorbide Störungen
   - Aktuelle Psychopathologie
-  - Komorbide Störungen
   - Risokofaktoren
   - Soziale Anamnese
   - Medizinische Untersuchung
 - **Besonderes Akte**
-  - Unterbringungsbefehl
-  - Urteil
+  - Unterbringungsbefehl & Urteil
   - Schuldfähigkeitsgutachten
   - Behandlungspläne *(24 Std, 6 Wo, alle 6 Monate)*
   - Schriftwechsel mit Anwälten
@@ -218,7 +216,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Bettenabbau in Allgemeiner Psychiatrie und Kostendruck (Verweildauer)
   - zunehmender Anteil Suchtmittel missbrauchender junger Schizophrener
 
-##Dialektisch Behaviorale Therapie (DBT)
+## Dialektisch Behaviorale Therapie (DBT)
 
 - Balance zwischen Akzeptanz (Persönlichkeit) und Veränderung (Delinquenz und relevante Themen)
 - **Bio-soziale Therie der Störung der Emotionsregulation**
@@ -323,3 +321,21 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
       - Naltrexon
       - Cyproteronacetat (CPA)
       - Gonadotropin-Releasing-Hormon-Analoga (GnRH Analoga)
+
+## psychiatrische/ psychologische Begutachtung
+
+> Schuld ist die subjektive Zurechnung normabweichenden Verhaltens, wenn von Anderen in vergleichbarer inner und äußerer Situation normgerechtes Verhalten erwartet werden kann
+
+- BGH: pragmatischer Schuldbegriff (freie Willensentscheidung ist möglich)
+- generelle Schuldunfähigkeit gibt es nicht
+- Stellung und Aufnahme des Sachverständigen
+  - besondere Sachkenntnis
+  - "Gehilfe des Gerichts" (bleibt in seinem Kompetenzbereich selbstständig und unabhängig)
+  - Jeder Psychiater grundsätzlich verpflichtet, aber nach §76 StPO Gutachtenverweigerungsrecht
+  - Gutachten hat keine Bindungswirkung
+  - Richter hat Sachverständigen zu leiten (§78 StPO)
+- juristischer Krankheitsbegriff:
+  - Fokus auf Schweregrad, nicht auf Ursache, Symptomatik, Verlauf
+  - kausale Zusammenhang zu in Rede stehender Tat
+  - normativ: Frage nach Einsichts- und Steuerungsfähigkeit
+  -
