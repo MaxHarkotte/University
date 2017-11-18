@@ -207,3 +207,4 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
       - dosisabhängiger Effekt der Bedeutung von Risikofaktoren
     - Response: Symptomschwächung nach 14 Tagen
     - Nebenwirkungen: v.a. verminderte Libido, Gewichtszunahme
+  - äBehinderung
