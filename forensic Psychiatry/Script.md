@@ -207,4 +207,11 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
       - dosisabhängiger Effekt der Bedeutung von Risikofaktoren
     - Response: Symptomschwächung nach 14 Tagen
     - Nebenwirkungen: v.a. verminderte Libido, Gewichtszunahme
-  - äBehinderung
+  - Gefahr: Absetzen des Medikaments durch Patienten selbst
+- **Überprüfung Behandlungsverlauf**
+  - regelmäßige Aktualisierung des Behandlungsplans
+  - Stellungnahme an Staatsanwaltschaft/StVK (externes Gutachten alle 5 Jahre an StVK)
+- **Forensifizierung Schizophrener (Straftäter)**
+  - Problematik der Unterschätzung des Deliktpotentials (z.B. nach mehrfacher Einstellung der Verfahren §20 StGB, Bagatelledelikte) *Fallbeispiel Frau B.*
+  - Bettenabbau in Allgemeiner Psychiatrie und Kostendruck (Verweildauer)
+  - zunehmender Anteil Suchtmittel missbrauchender junger Schizophrener
