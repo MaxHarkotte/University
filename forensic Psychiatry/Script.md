@@ -105,22 +105,22 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 ## Eingangsmerkmale nach § 20 StGB
 
 1.  **Krankhaft seelische Störung**
-  - Organische Psychosen
-  - Psychosen aus dem schizophrenen Formenkreis
-  - Psychosen aus dem affektiven Formenkreis
-  - Abhängigkeiten
-  - genetische Erkrankungen (Trismoie 21, Klinefelter)
+    - Organische Psychosen
+    - Psychosen aus dem schizophrenen Formenkreis
+    - Psychosen aus dem affektiven Formenkreis
+    - Abhängigkeiten
+    - genetische Erkrankungen (Trismoie 21, Klinefelter)
 2. **Tiefgreifende Bewusstseinsstörung**
-  - psychisch gesund, aber Bewusstseinsveränderungen (z.B. Affekttat, Taten aus existentieller Angt und Zorn heraus, Gefühlsabstumpfung)
+    - psychisch gesund, aber Bewusstseinsveränderungen (z.B. Affekttat, Taten aus existentieller Angt und Zorn heraus, Gefühlsabstumpfung)
 3. **Schwachsinn**
-  - ideopathische Minderbegabung (nicht nur IQ, sondern auch sonstige soziale Reife)
+    - ideopathische Minderbegabung (nicht nur IQ, sondern auch sonstige soziale Reife)
 4. **Schwere andere seelische Abartigkeit**
-  - Persönlichkeitsstörungen
-  - Abnorme Geohnheiten oder Störungen der Impulskontrolle
-  - Neurotische Störungen
-  - Sexuelle Präferenzstörungen
-  - chronische Abhängigkeitserkrankungen
-  - paranoide Entwicklungen
+    - Persönlichkeitsstörungen
+    - Abnorme Geohnheiten oder Störungen der Impulskontrolle
+    - Neurotische Störungen
+    - Sexuelle Präferenzstörungen
+    - chronische Abhängigkeitserkrankungen
+    - paranoide Entwicklungen
 > Psychose als Urmeter (Kröber)
 
 ## Delinquenz & Behandlung schizophrener Patienten
@@ -164,7 +164,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 
 ### Deliktmuster
 1. Impulsive Taten mit starker affektiver Beteiligung aus akutem paranoiden Erleben heraus
-  - Threat- Control- Override Symptoms (TCO)
+    - Threat- Control- Override Symptoms (TCO)
 2. geplante Taten bei chronifiziertem Wahn
 3. Straftaten aus Negativsymptomatik heraus mit Verwahrlosung und Entdifferenzierung der Persönlichkeit (oft Bagatelledelikte)
 - Opfer:
@@ -180,4 +180,30 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 
 ## Allgemeine Grundsätze der Behandlung
 - neben klassisch psychiatrischen/psychologischen Zielen: **deliktrelevante Störungsmuster beseitigen**
--
+- Erlangen von Sicherheit (Beziehung, Informationsaustausch, technische & baulihce Maßnahmen, organisatorische Maßnahmen, Kooperation mit Polizei)
+- **Intramurale Risokoerkennung/ Signal-Erkennungsplan** nach Fluttert (2006)
+  - Frühwarnsysteme für Patienten (als Experte, Skills) und Betreuer
+  - *Frühwarnzeichen* als Veränderung des subjektiven oder wahrnehmbaren Verhaltens
+    - Ich-Form und 3 Grade
+    - v.a. sozialer Rückzug, Gereiztheit, etc.
+    - Übergriffe vor allem nach "Nein-Botschaften" und Medikamentenvergabe (relevant: Kommunikation)
+  - *Risikoverhalten* als Bedrohung der Umwelt oder des Patienten selbst
+
+### Therapie bei Psychosen
+- Psychodynamische Behandlung kann neuen Krankheitsschub fördern
+  - keine "Deliktbearbeitung" im vergleichbaren Sinne mit Sozialtherapie
+  - Fokus auf kognitiv-verhaltenstherapeutischen Verfahren
+- IPT = Integriertes psychologisches Therapieprogramm
+- DUP = Dauer der unbehandelten Psychose
+  - bei Jugendlichen länger als bei Erwachsenen
+  - > 2 Monate: reduzierte Remissionswahrscheinlichkeit
+  - bei erstbehandlung oft schon chronisch
+- **Pharmakotherapie**
+  - Antipsychotika (AP)
+    - PLUS: DA Hyperaktisivtät meso-limbisch
+    - MINUS: DA Hypoaktivität meso-cortical
+    - keine Medikationswechsel ohne Grund
+    - non-response: Wechsel nach 4 bis 6 Wochen
+      - dosisabhängiger Effekt der Bedeutung von Risikofaktoren
+    - Response: Symptomschwächung nach 14 Tagen
+    - Nebenwirkungen: v.a. verminderte Libido, Gewichtszunahme
