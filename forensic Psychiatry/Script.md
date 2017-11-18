@@ -188,6 +188,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
     - v.a. sozialer Rückzug, Gereiztheit, etc.
     - Übergriffe vor allem nach "Nein-Botschaften" und Medikamentenvergabe (relevant: Kommunikation)
   - *Risikoverhalten* als Bedrohung der Umwelt oder des Patienten selbst
+  - Ziele der Therapie müssen auch für Patienten motivierend wirken (kein Altruismus Argument)
 
 ### Therapie bei Psychosen
 - Psychodynamische Behandlung kann neuen Krankheitsschub fördern
@@ -213,5 +214,112 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Stellungnahme an Staatsanwaltschaft/StVK (externes Gutachten alle 5 Jahre an StVK)
 - **Forensifizierung Schizophrener (Straftäter)**
   - Problematik der Unterschätzung des Deliktpotentials (z.B. nach mehrfacher Einstellung der Verfahren §20 StGB, Bagatelledelikte) *Fallbeispiel Frau B.*
+  - Asymmetrie d. Risikowahrnehmung durch Früherkennung zwischen Männern und Frauen
   - Bettenabbau in Allgemeiner Psychiatrie und Kostendruck (Verweildauer)
   - zunehmender Anteil Suchtmittel missbrauchender junger Schizophrener
+
+##Dialektisch Behaviorale Therapie (DBT)
+
+- Balance zwischen Akzeptanz (Persönlichkeit) und Veränderung (Delinquenz und relevante Themen)
+- **Bio-soziale Therie der Störung der Emotionsregulation**
+- Grundannahmen nach Bohus:
+  - Teufelskreis
+  - Regeln auf Team bezogen
+  - Änderungsmotivation, Schuldfrage nicht zentral und kein Versagen möglich
+- *eklektischer Therapeutischer Ansatz*
+  - Lerntheorie und Verhaltenstherapie (KVT)
+- *strukturierte und integrative Therapie*
+  - Basisgruppe
+  - skill-Gruppen
+  - Einzeltherapie
+- hierarchische Gleiderung der Therapieziele
+  - Überlebensstratiegien (Suizid)
+  - Therapie Compliance
+  - ambulante Therapie
+- **DBT in der Forensik**
+  - Patienten oft mit desorganisiertem Bindungsstil
+  - Antisoziale und aggressive Einstellungen
+  - keine Freiwilligkeit (relevant: Veränderungsmotivation)
+  - Andere Hierarchie: Reduktioin fremdschädigendes Verhalten auf #1
+  - Verhaltensanalysen und Time-out
+
+## Delinquenz und Behandlung von Patienten mit Persönlichkeitsstörungen und Sexualstraftätern
+
+### Grundannahmen in der Arbeit mit Menschen mit Persönlichkeitsstörungen
+
+- Interaktions- und Beziehungsstörungen
+- Persönlichkeit als dimensionales Konstrukt (Persönlichkeitsstil - Persönlichkeitsakzentuierung - P-Störung)
+- Berücksichtigung Defizite und Ressourcen
+  > Der Mensch ist mehr als seine Taten
+
+  - Trennung Delinquenz und Persönlichkeit (dialektisch)
+
+## Sexualstraftäter aus forensisch-psychiatrischer Sicht
+
+- **Grundannahmen**
+  - Sexualerleben nicht von Persönlichkeit zu trennen
+  - Sexuelle Gewalthandlungen können Inszenierungen sein (Bezug auf Vielfältigkeit der Funktionen von Sexualität)
+- Berliner Schule (Kröber): Paraphilien können rückgebildet werden
+  - Straftaten primär sexuell motiviert und nicht Ergebnis der individuellen Lebensgeschichte
+- Hamburger Lehrmeinung: Muster bleibt immer bestehen
+- DSM-V:
+  - Trennung Störung der Sexualpräferenz und Paraphilie
+- Beurteilung Schweregrad einer Paraphilie  
+  - Kriterien **Progredienz** und **Sadismus**
+  - Kontrollfähigkeit zentral
+  - Beier: Trennung Haupt- und Nebenströmung
+  - Regelmäßigkeit der sexuellen Impulse  
+- **Sexueller Sadismus**
+  - v.a. Fantasien aggressivem sexuellen Inhalt, Schmerz, Furcht, Verstümmelung, Gewalt, etc.
+  - Funktion:
+    - Machtmotiv
+    - sexuelle Befriedigung
+- Besonderheit: *Sexualanamnese* (Achtung: falsch Informationen)
+- Häufigung bei Psychopathie: Vergewaltigung (+Tötung)
+  - Kindesmissbrauch nur ca. 5% psychopathisch
+- **Tätertypologien**
+  - dissozial
+    - *Dissexualität*: Ein im Sexuellen ausgedrücktes Sozialversagen
+    - dissexuelles Handeln verletzt die Integrität und Individualität eines Gegenübers
+  - aggressiv
+  - deviant
+  - **Vergewaltiger**:
+    - jugendliche, sexuell unerfahrene Täter
+    - dissoziale Täter
+    - symbolisch-agitierte Täter
+    - sadistische Täter
+
+## Behandlungsprogramm für Sexualstraftäter (BPS)
+
+1. deliktunspezifischer Teil
+  - Gruppenarbeit
+  - Sozialverhalten
+  - Aufklärungsunterricht
+2. deliktspezifischer Teil
+  - in der Gruppe: Stufen bis zum Delikt, Risikosituationen
+  - persönliche Vita nicht zu ausführlich, da kein Bild des "Opfers seiner Umstände"
+  - Idee: Expertenwissen = Täterwissen, Konfrontation kann authentisch erfolgen
+  - sadistisches Spektrum nicht in der Gruppe (oder nur mit Medis)
+
+**Ziele:**
+    - *Selbstwirksamkeit im Bezug auf sexuelles Verhalten*
+    - allgemeine Empathie
+    - prosoziale Einstellung
+    - Coping Stratgien
+    - Angemessener Umgang mit Intimität
+    - positives Selbstwertgefühl
+    - Selbstregulation
+    - etc.
+
+**Antihormonelle Behandlung von Sexualstraftätern**
+  - Indikation:
+    - Sexuelle Deviation
+    - hoher sujektiver Leidensdruck
+    - drohende oder reale soziale Desintegration
+    - Beeinträchtigung der Partnerschaft
+    - Das Fünf-Pfade-Modell (W. Berner, P. Briken; 2010)
+    - Medikamente:
+      - SSRI
+      - Naltrexon
+      - Cyproteronacetat (CPA)
+      - Gonadotropin-Releasing-Hormon-Analoga (GnRH Analoga)
