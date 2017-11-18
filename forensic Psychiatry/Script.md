@@ -338,4 +338,5 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Fokus auf Schweregrad, nicht auf Ursache, Symptomatik, Verlauf
   - kausale Zusammenhang zu in Rede stehender Tat
   - normativ: Frage nach Einsichts- und Steuerungsfähigkeit
-  -
+      - **Einsichtsunfähigkeit**: nicht ausreichende kognitive Funktionen für Einsicht in das Unrecht
+      - falls vorhanden, **Steuerungsfähigkeit**: Einbußen der voluntativen Fähigkeiten, die zu einem Handlungsentwurf beitragen
