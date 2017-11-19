@@ -262,11 +262,11 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 - Hamburger Lehrmeinung: Muster bleibt immer bestehen
 - DSM-V:
   - Trennung Störung der Sexualpräferenz und Paraphilie
-- Beurteilung Schweregrad einer Paraphilie  
+- Beurteilung Schweregrad einer Paraphilie
   - Kriterien **Progredienz** und **Sadismus**
   - Kontrollfähigkeit zentral
   - Beier: Trennung Haupt- und Nebenströmung
-  - Regelmäßigkeit der sexuellen Impulse  
+  - Regelmäßigkeit der sexuellen Impulse
 - **Sexueller Sadismus**
   - v.a. Fantasien aggressivem sexuellen Inhalt, Schmerz, Furcht, Verstümmelung, Gewalt, etc.
   - Funktion:
@@ -372,7 +372,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 - **Lockerungsprognose**: Vorhersage, ob es während Lockerungen zu (deliktischem) Zwischenfall kommt
     - Lockerungen als Teil der Therapie
     - §18: Maß des Freiheitsentzugs (NRW: Status 0 bis 3)
-    - anderer Zeitraum und kontrolliertere Bedingungen als bei Entlassungsprognose 
+    - anderer Zeitraum und kontrolliertere Bedingungen als bei Entlassungsprognose
 - **Entlassungsprognose**: Vorhersage über die Legalbewährung in Freiheit
     - Persönlichkeit und Biographie
     - Bisherige Delinquenz
