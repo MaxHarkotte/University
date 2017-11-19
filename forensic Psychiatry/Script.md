@@ -334,9 +334,31 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Jeder Psychiater grundsätzlich verpflichtet, aber nach §76 StPO Gutachtenverweigerungsrecht
   - Gutachten hat keine Bindungswirkung
   - Richter hat Sachverständigen zu leiten (§78 StPO)
+  - **hier**: Aufgabe der Beurteilung der Schuldfähigkeit
+      - Anamnestisch
+      - Querschnittsbefund
+      - akute exogene Einflüsse
+      - andere körperliche Einflüsse
+      - Tatvorgeschichte
+      - Tatverhalten
 - juristischer Krankheitsbegriff:
   - Fokus auf Schweregrad, nicht auf Ursache, Symptomatik, Verlauf
   - kausale Zusammenhang zu in Rede stehender Tat
   - normativ: Frage nach Einsichts- und Steuerungsfähigkeit
       - **Einsichtsunfähigkeit**: nicht ausreichende kognitive Funktionen für Einsicht in das Unrecht
       - falls vorhanden, **Steuerungsfähigkeit**: Einbußen der voluntativen Fähigkeiten, die zu einem Handlungsentwurf beitragen
+- Schritte der Beantwortung der vorgelegten Fragen:
+  1. Diagnose stellen und Störung beschreiben
+  2. Innerpsychische Zusammenhänge aufdecken
+  3. Subsumtion unter einem juristischen Krankheitsbegriff
+  4. Entwicklung einer Hypothese über die störungsbedingte Funktionsbeeinträchtigung
+  5. Benennung der Wahrscheinlichkeit, mit der die klinische Hypothese zutrifft
+- **Schweigepflicht**
+  - §203 StGB: Arzt unterliegt Schweigepflicht
+  - Gutachter hat NUR gegenüber Auftraggeber kein Zeugnisverweigerungsrecht
+  - *Fairness* in der Begutachtung (Aufklärung, etc.)
+- **Fehlerquellen**
+  - Fehlerumgang mit besonderen Problemen verbunden (z.B. bei falscher Delikthypothese) *Fall Dell*
+  > Taten sagen mehr über einen Menschen aus, als seine Aussagen
+
+## Prognosen in der forensischen Klinik
