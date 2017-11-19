@@ -39,7 +39,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
     2. Führungsaufsicht (§§ 68-68 f StGB)
     3. Entziehung der Fahrerlaubnis (§§ 69-69 b StGB)
     4. Berufsverbot (§§ 70-70 b StGB)
-- Jugendliche und Heranwachsende: gem. §§ 105 Abs 1 JGG kann gem. 37 JGG die Unterbringung ein einer psych. Kllinik,
+- Jugendliche und Heranwachsende: gem. §§ 105 Abs 1 JGG kann gem. 37 JGG die Unterbringung in einer psych. Klinik,
     Suchtklinik, Führungsaufsicht oder Entzug der Fahrerlaubnis angeordnet werden
 
 - **§ 20: Schuldunfähigkeit wegen seelischer Störung**
@@ -61,10 +61,10 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
     - keine zeitliche Begrenzung, sondern abhängig von Gefahrenreduktion
     - alle 3 Jahre externe Begutachtung
     - rote Linien: nach 6 und 10 Jahren erneute Gefahreinschätzung
-    - keine Bagatelledelikte
+    - keine Bagatelldelikte
 
 
-- **§ 64: Unterbringung in einer Entzihungsanstalt**
+- **§ 64: Unterbringung in einer Entziehungsanstalt**
   - Delinquenz muss nicht direkt mit Sucht zusammenhängen
   - allgemein: §64 + 2/3 der Gefängnisstrafe
   - begrenzt auf 2 Jahre
@@ -73,7 +73,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 
 - **Einstweilige Maßnahmen**
   - allg.: MR erst nach rechtskräftigem Urteil vollstreckbar
-  - Vorübergehende Zwangsmaßnahmen/ Einstweilige MaßMaßnahmen:
+  - Vorübergehende Zwangsmaßnahmen/ Einstweilige Maßnahmen:
     1. § 111 a StPO: vorläuf. Entziehung Fahrerlaubnis
     2. § 132 a StPO: vorläuf. Berufsverbot
     3. § 112 a StPO:  Untersuchungshaft wegen Wiederholungsgefahr
@@ -85,7 +85,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Gericht kann bestimmen: (Teil der) Strafe vor MR, wenn Zweck der MR dadurch besser erreichbar
   - Bei erwarteter Ausreise: Strafe vor MR
   - Wenn MR vor Strafe: Zeit des Vollzugs der MR wird auf Strafe angerechnet, *bis 2/3 der Strafe erledigt sind*
-  - **§ 67 a: Überweisung in den Vollzug einer anderern Maßregel**
+  - **§ 67 a: Überweisung in den Vollzug einer anderen Maßregel**
   - **§ 67 b: Aussetzung zugleich mit der Anordnung**
     - MR auf Bewährung ausgesetzt (falls hilfreich und keine Haftstrafe)
   - **§ 67 d: Dauer der Unterbringung**
@@ -94,11 +94,11 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 
 ## Statistisches
 
-- Steigende Anzahl der bahandelten Patienten in forensischen Psychiatrien
-  - Fall Dutroux (Belgien): gestiegendes Sicherheitsbedürfnis
+- Steigende Anzahl der behandelten Patienten in forensischen Psychiatrien
+  - Fall Dutroux (Belgien): gestiegenes Sicherheitsbedürfnis
   - Trend zur Einweisung suchtkranker Straftäter in den MRV gem. §64 StGB
-  - wenig (geschlossene) Dauerwohnheime für chronisch schwerst psychisch krnake oder verhaltensauffällige Menschen mit geistiger Behinderung
-- Verweildauer schizophrener Patienten in Allgmeiner Psychiatrie sehr verkürzt (ca. ~ 22 Tage)
+  - wenig (geschlossene) Dauerwohnheime für chronisch schwerst psychisch kranke oder verhaltensauffällige Menschen mit geistiger Behinderung
+- Verweildauer schizophrener Patienten in Allgemeiner Psychiatrie sehr verkürzt (ca. ~ 22 Tage)
   - Shift in die forensische Psychiatrie
 - Reformforderungen im Zusammenhang mit Fall Mollath + DGPPN Forderungen
 
@@ -111,12 +111,12 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
     - Abhängigkeiten
     - genetische Erkrankungen (Trismoie 21, Klinefelter)
 2. **Tiefgreifende Bewusstseinsstörung**
-    - psychisch gesund, aber Bewusstseinsveränderungen (z.B. Affekttat, Taten aus existentieller Angt und Zorn heraus, Gefühlsabstumpfung)
+    - psychisch gesund, aber Bewusstseinsveränderungen (z.B. Affekttat, Taten aus existentieller Angst und Zorn heraus, Gefühlsabstumpfung)
 3. **Schwachsinn**
     - ideopathische Minderbegabung (nicht nur IQ, sondern auch sonstige soziale Reife)
 4. **Schwere andere seelische Abartigkeit**
     - Persönlichkeitsstörungen
-    - Abnorme Geohnheiten oder Störungen der Impulskontrolle
+    - Abnorme Gewohnheiten oder Störungen der Impulskontrolle
     - Neurotische Störungen
     - Sexuelle Präferenzstörungen
     - chronische Abhängigkeitserkrankungen
@@ -135,7 +135,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Punktprävalenz USA: 0,7%
   - Lebenszeitprävalenz weltweit: im Mittel 1%
   - Behandlungsprävalenz: 40-42% in forensischen Psychiatrien
-- Erkrankunsalter:
+- Erkrankungsalter:
   - 2/3 vor dem 30. LJ
   - Frauen 4 Jahre später (und häufiger Frühschizophrenie) als Männer
   - Männer: 1. Erkrankungsgipfel zw. 16 und 24 Jahren
@@ -149,7 +149,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 - **Diagnostik von Psychosen**
   - Psychiatrische Vorgeschichte & Komorbide Störungen
   - Aktuelle Psychopathologie
-  - Risokofaktoren
+  - Risikofaktoren
   - Soziale Anamnese
   - Medizinische Untersuchung
 - **Besonderes Akte**
@@ -164,7 +164,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 1. Impulsive Taten mit starker affektiver Beteiligung aus akutem paranoiden Erleben heraus
     - Threat- Control- Override Symptoms (TCO)
 2. geplante Taten bei chronifiziertem Wahn
-3. Straftaten aus Negativsymptomatik heraus mit Verwahrlosung und Entdifferenzierung der Persönlichkeit (oft Bagatelledelikte)
+3. Straftaten aus Negativsymptomatik heraus mit Verwahrlosung und Entdifferenzierung der Persönlichkeit (oft Bagatelldelikte)
 - Opfer:
   - vor allem aus unmittelbarem sozialen Umfeld
   - Autoritätspersonen (Therapierelevant)
@@ -178,8 +178,8 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 
 ## Allgemeine Grundsätze der Behandlung
 - neben klassisch psychiatrischen/psychologischen Zielen: **deliktrelevante Störungsmuster beseitigen**
-- Erlangen von Sicherheit (Beziehung, Informationsaustausch, technische & baulihce Maßnahmen, organisatorische Maßnahmen, Kooperation mit Polizei)
-- **Intramurale Risokoerkennung/ Signal-Erkennungsplan** nach Fluttert (2006)
+- Erlangen von Sicherheit (Beziehung, Informationsaustausch, technische & bauliche Maßnahmen, organisatorische Maßnahmen, Kooperation mit Polizei)
+- **Intramurale Risikoerkennung/ Signal-Erkennungsplan** nach Fluttert (2006)
   - Frühwarnsysteme für Patienten (als Experte, Skills) und Betreuer
   - *Frühwarnzeichen* als Veränderung des subjektiven oder wahrnehmbaren Verhaltens
     - Ich-Form und 3 Grade
@@ -196,10 +196,10 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 - DUP = Dauer der unbehandelten Psychose
   - bei Jugendlichen länger als bei Erwachsenen
   - > 2 Monate: reduzierte Remissionswahrscheinlichkeit
-  - bei erstbehandlung oft schon chronisch
+  - bei Erstbehandlung oft schon chronisch
 - **Pharmakotherapie**
   - Antipsychotika (AP)
-    - PLUS: DA Hyperaktisivtät meso-limbisch
+    - PLUS: DA Hyperaktivtät meso-limbisch
     - MINUS: DA Hypoaktivität meso-cortical
     - keine Medikationswechsel ohne Grund
     - non-response: Wechsel nach 4 bis 6 Wochen
@@ -211,7 +211,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - regelmäßige Aktualisierung des Behandlungsplans
   - Stellungnahme an Staatsanwaltschaft/StVK (externes Gutachten alle 5 Jahre an StVK)
 - **Forensifizierung Schizophrener (Straftäter)**
-  - Problematik der Unterschätzung des Deliktpotentials (z.B. nach mehrfacher Einstellung der Verfahren §20 StGB, Bagatelledelikte) *Fallbeispiel Frau B.*
+  - Problematik der Unterschätzung des Deliktpotentials (z.B. nach mehrfacher Einstellung der Verfahren §20 StGB, Bagatelldelikte) *Fallbeispiel Frau B.*
   - Asymmetrie d. Risikowahrnehmung durch Früherkennung zwischen Männern und Frauen
   - Bettenabbau in Allgemeiner Psychiatrie und Kostendruck (Verweildauer)
   - zunehmender Anteil Suchtmittel missbrauchender junger Schizophrener
@@ -219,7 +219,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 ## Dialektisch Behaviorale Therapie (DBT)
 
 - Balance zwischen Akzeptanz (Persönlichkeit) und Veränderung (Delinquenz und relevante Themen)
-- **Bio-soziale Therie der Störung der Emotionsregulation**
+- **Bio-soziale Theorie der Störung der Emotionsregulation**
 - Grundannahmen nach Bohus:
   - Teufelskreis
   - Regeln auf Team bezogen
@@ -230,7 +230,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Basisgruppe
   - skill-Gruppen
   - Einzeltherapie
-- hierarchische Gleiderung der Therapieziele
+- hierarchische Gliederung der Therapieziele
   - Überlebensstratiegien (Suizid)
   - Therapie Compliance
   - ambulante Therapie
@@ -238,7 +238,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - Patienten oft mit desorganisiertem Bindungsstil
   - Antisoziale und aggressive Einstellungen
   - keine Freiwilligkeit (relevant: Veränderungsmotivation)
-  - Andere Hierarchie: Reduktioin fremdschädigendes Verhalten auf #1
+  - Andere Hierarchie: Reduktion fremdschädigendes Verhalten auf #1
   - Verhaltensanalysen und Time-out
 
 ## Delinquenz und Behandlung von Patienten mit Persönlichkeitsstörungen und Sexualstraftätern
@@ -300,10 +300,10 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   - sadistisches Spektrum nicht in der Gruppe (oder nur mit Medis)
 
 **Ziele:**
-    - *Selbstwirksamkeit im Bezug auf sexuelles Verhalten*
+    - *Selbstwirksamkeit in Bezug auf sexuelles Verhalten*
     - allgemeine Empathie
     - prosoziale Einstellung
-    - Coping Stratgien
+    - Coping Strategien
     - Angemessener Umgang mit Intimität
     - positives Selbstwertgefühl
     - Selbstregulation
@@ -312,7 +312,7 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
 **Antihormonelle Behandlung von Sexualstraftätern**
   - Indikation:
     - Sexuelle Deviation
-    - hoher sujektiver Leidensdruck
+    - hoher subjektiver Leidensdruck
     - drohende oder reale soziale Desintegration
     - Beeinträchtigung der Partnerschaft
     - Das Fünf-Pfade-Modell (W. Berner, P. Briken; 2010)
@@ -362,3 +362,21 @@ die infolge ihrer Erkrankung zu Straftätern geworden sind
   > Taten sagen mehr über einen Menschen aus, als seine Aussagen
 
 ## Prognosen in der forensischen Klinik
+
+- **Einweisungsprognose**: Vorhersage der generellen Wahrscheinlichkeit eines kriminellen Rückfalls
+    - unklare Situation: statische Risikofaktoren und Basisraten
+    - Frage der Prognose *unabhängig von möglichen Interventionen*
+- **Behandlungsprognose**: Vorhersage, ob die Rückfallwahrscheinlichkeit durch die Therapie verringert werden kann
+    - Beurteilung dynamischer Risikofaktoren (Stärkung protektiver, und Abbau belastender Risiko-Faktoren)
+    - *Wo keine Risikofaktoren, da auch keine Tharapie notwendig*
+- **Lockerungsprognose**: Vorhersage, ob es während Lockerungen zu (deliktischem) Zwischenfall kommt
+    - Lockerungen als Teil der Therapie
+    - §18: Maß des Freiheitsentzugs (NRW: Status 0 bis 3)
+    - anderer Zeitraum und kontrolliertere Bedingungen als bei Entlassungsprognose 
+- **Entlassungsprognose**: Vorhersage über die Legalbewährung in Freiheit
+    - Persönlichkeit und Biographie
+    - Bisherige Delinquenz
+    - Postdeliktische Entwicklung und Verlauf der Therapie in der Klinik
+    - Sozialer Empfangsraum
+    - Strukturierung der Fallbesprechung **Dittmannliste**
+- **Rückfallprognose**: Gefährlichkeit und Rückfallwahrscheinlichkeit sind NICHT DASSELBE
